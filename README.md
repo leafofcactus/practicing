@@ -31,3 +31,8 @@ Superscript text need < sup > and < / sup>
 > This is a quote.
 
 This looks like R or python
+
++ making symbols
+
+- making symbol 2
+
